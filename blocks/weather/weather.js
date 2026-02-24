@@ -20,5 +20,5 @@ export default async function decorate(block) {
     </div>
   `;
 
-    block.innerHTML = weatherHTML;
+  block.innerHTML = weatherHTML;
 }
